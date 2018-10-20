@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 19, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Alex Nash)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment had us integrate a javascript application that acts as an expense calculator
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://ajn14d.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (JavaScript is usefull for making interactive elements inn we design)
+2. (var is used to declare variables)
+3. (Browser conoles are used to view error messages)
 
 
 
